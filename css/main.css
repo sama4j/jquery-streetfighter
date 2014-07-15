@@ -13,6 +13,14 @@ body {
 .ryu {
 	float: left;
 }
+.instruction {
+	display: inline-block;
+	background-color: yellow;
+}
+
+ul {
+	list-style: circle;
+}
 
 .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
 	width: 659px;
